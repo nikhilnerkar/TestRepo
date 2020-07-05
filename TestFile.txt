@@ -1,3 +1,4 @@
 Change 1
 Change2
 master commit to conflict with branch idea
+idea
